@@ -7,7 +7,7 @@ highlighter: rouge
 javascript_enabled: true
 
 
-collections: #콜랙터는 큰 분류 생성
+collections:
   devs:
     title: Develops
     default_open: true
@@ -30,7 +30,7 @@ collections: #콜랙터는 큰 분류 생성
     output: true
     
     
-defaults: #생성한 분류에 포함시킬 옵션   
+defaults: 
   - scope:
       type: posts
     values:

@@ -3,7 +3,7 @@ layout: page
 title: About Holiam
 ---
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ko_KR" data-type="horizontal" data-theme="light" data-vanity="hongki-liam-cho-1022b1174"><a class="LI-simple-link" href='https://kr.linkedin.com/in/hongki-liam-cho-1022b1174?trk=profile-badge'>Hongki (Liam) Cho</a></div>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ko_KR" data-type="horizontal" data-theme="light" data-vanity="hongki-liam-cho-1022b1174"></div>
 
 ## Profile
 
@@ -25,7 +25,7 @@ WonderPeople.Co.LTD (Seoul, Republic of Korea) / Game Cheat Prevention R&D, Pent
 ### Skill
 
 Development (C,C++,C#,Python)
-Reversing (Packed File)
+Reversing and Analysis (Packed Files, Windows Drivers)
 Limited Working English
 
 ### Interests

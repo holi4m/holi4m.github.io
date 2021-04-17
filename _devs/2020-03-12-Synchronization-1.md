@@ -531,11 +531,11 @@ After Semaphore PreviousCount= 0
 ```
 
 # #Relation Post
-1. [[Windows Synchronization_0x00]](https://holi4m.github.io/windows/2020/03/10/Synchronization-0/)
+1. [Windows Synchronization_0x00](https://holi4m.github.io/windows/2020/03/10/Synchronization-0/)
 
 # #Reference
-1. [[MSDN]](https://docs.microsoft.com/ko-kr/windows/win32/sync/synchronization)
-2. [[뇌를 자극하는 윈도우즈 시스템 프로그래밍]](http://www.hanbit.co.kr/store/books/look.php?p_code=B7673779595)
-3. [[Blog 1]](https://cesl.tistory.com/entry/Mutex%EC%99%80-Semaphore-%EA%B5%AC%ED%98%84%ED%95%98%EC%97%AC-%EB%B9%84%EA%B5%90)
-4. [[Blog 2]](https://5kyc1ad.tistory.com/252)
+1. [MSDN](https://docs.microsoft.com/ko-kr/windows/win32/sync/synchronization)
+2. [뇌를 자극하는 윈도우즈 시스템 프로그래밍](http://www.hanbit.co.kr/store/books/look.php?p_code=B7673779595)
+3. [Blog 1](https://cesl.tistory.com/entry/Mutex%EC%99%80-Semaphore-%EA%B5%AC%ED%98%84%ED%95%98%EC%97%AC-%EB%B9%84%EA%B5%90)
+4. [Blog 2](https://5kyc1ad.tistory.com/252)
 

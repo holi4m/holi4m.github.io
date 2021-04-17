@@ -1,10 +1,8 @@
 ---
+layout: post
 title: VirtualKD-Redux Installation & Kernel Debugging
-date: 2020-03-31
-categories:
-- Kernel
 tags:
-- Kernel
+- Windows
 - VirtualKD
 ---
 

@@ -3,7 +3,6 @@ layout: post
 title: SetPrivilege Function & Access Token Privilege
 tags:
 - Windows
-- Dev
 ---
 
 # # Introduce

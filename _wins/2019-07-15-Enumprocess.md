@@ -3,7 +3,6 @@ layout: post
 title: "EnumProcesses & GetNativeSystemInfo"
 tags:
 - Windows
-- Development
 - Kernel
 ---
 # # Introduce

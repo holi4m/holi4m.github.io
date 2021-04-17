@@ -29,8 +29,8 @@ collections: #콜랙터는 큰 분류 생성
     default_open: true
     output: true
     
-defaults: #생성한 분류에 포함시킬 옵션
-      
+    
+defaults: #생성한 분류에 포함시킬 옵션   
   - scope:
       type: posts
     values:

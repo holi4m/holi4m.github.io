@@ -1,8 +1,6 @@
 ---
+layout: post
 title: SetPrivilege Function & Access Token Privilege
-date: 2019-06-06
-categories:
-- Windows
 tags:
 - Windows
 - Dev

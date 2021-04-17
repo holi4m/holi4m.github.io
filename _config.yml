@@ -8,11 +8,11 @@ javascript_enabled: true
 
 
 collections:
+
   devs:
     title: Develops
     default_open: true
     output: true
-    
   wins:
     title: Windows
     default_open: true

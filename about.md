@@ -14,14 +14,14 @@ Contact : h01i4m@gmail.com
 
 ### Education
 
-CWNU (Changwon National University) / Bachelor of Computer Engineering / 2010 ~ 2017  
-CWNU (Changwon National University) / Information Security Clubs Casper / 2010 ~ 2017  
+Changwon National University / Bachelor of Computer Engineering / 2010 ~ 2017  
+Changwon National University / Information Security Clubs Casper / 2010 ~ 2017  
 
 ### Jobs
 
-Changwon National University (Changwon, South Korea) / CERT, Network / 2015 ~ 2015  
-Cyberone.Co.LTD (Seoul, South Korea) / Web Pentester / 2017 ~ 2019  
-WonderPeople.Co.LTD (Seoul, South Korea) / Game Cheat Prevention R&D, Pentester, SecDev Team  / 2019 ~  
+Changwon National University / CERT, Network / 2015 ~ 2015  
+Cyberone.Co.LTD / Web Pentester / 2017 ~ 2019  
+WonderPeople.Co.LTD / Game Cheat Prevention R&D, Pentester, SecDev Team  / 2019 ~  
 
 ### Skill
 

@@ -1,5 +1,5 @@
 ---
-layout: wins
+layout: post
 title: Sample Post
 tags: 
 - text

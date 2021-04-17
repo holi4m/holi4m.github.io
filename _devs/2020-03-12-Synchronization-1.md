@@ -530,9 +530,6 @@ Thread Id = 0x000061c0 After Semaphore Count = 30000000
 After Semaphore PreviousCount= 0
 ```
 
-# #Relation Post
-1. [Windows Synchronization_0x00](https://holi4m.github.io/windows/2020/03/10/Synchronization-0/)
-
 # #Reference
 1. [MSDN](https://docs.microsoft.com/ko-kr/windows/win32/sync/synchronization)
 2. [뇌를 자극하는 윈도우즈 시스템 프로그래밍](http://www.hanbit.co.kr/store/books/look.php?p_code=B7673779595)

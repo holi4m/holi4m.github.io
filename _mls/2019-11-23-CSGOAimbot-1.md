@@ -17,5 +17,3 @@ Tensorflow와 Object Detection을 이용하여 만든 Aimbot입니다.
 테스트베드의 사양이 조금 더 좋고 좀 더 정확도와 탐지율이 높은 모델을 사용하면  
 이전의 포스트에서 봤던 영상처럼 더 부드럽게 구현이 가능할 것으로 보입니다.
 
-# #Relation Post
-1. [Make CS:GO Aimbot_0x00](https://holiam.kr/mls/2019-10-31-CSGOAimbot-0.html)

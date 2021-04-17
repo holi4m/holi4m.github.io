@@ -319,9 +319,6 @@ Thread Id = 0x00005ab4 After InterLocked Count = 30000000
 커널 레벨 동기화는 다음 포스팅에서 정리하겠습니다.
 
 
-# #Relation Post
-1. [Windows Synchronization_0x01](https://holi4m.github.io/windows/2020/03/12/Synchronization-1/)
-
 # #Reference
 1. [MSDN](https://docs.microsoft.com/ko-kr/windows/win32/sync/synchronization)
 2. [뇌를 자극하는 윈도우즈 시스템 프로그래밍](http://www.hanbit.co.kr/store/books/look.php?p_code=B7673779595)

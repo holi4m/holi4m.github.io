@@ -75,13 +75,12 @@ python
 import tensorflow as tf
 ```
 
-- future warning 이 발생 할 경우 numpy를 1.17 이하 버전으로 설치하시면 됩니다.
+- future warning 이 발생 할 경우 numpy를 1.17 이하 버전으로 설치하시면 됩니다.  
 ```
 pip install numpy<=1.17
 ```
-# #Relation Post
-1. [Make CS:GO Aimbot_0x01](https://holiam.kr/mls/2019-11-23-CSGOAimbot-1.html)
 
+  
 # #Reference
 1. [Tensorflow Object Detection CS:GO Aimbot for Python Lessons](https://www.youtube.com/watch?v=HX2yXajg8Ts&list=PLbMO9c_jUD46x-d4pIj_STGK6CWWkw0Vv)  
 

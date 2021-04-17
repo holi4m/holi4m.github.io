@@ -10,7 +10,7 @@ javascript_enabled: true
 collections: #콜랙터는 큰 분류 생성
   devs:
     title: Develops
-    default_open: false
+    default_open: true
     output: true
   mls:
     title: Machine Learning
@@ -29,12 +29,11 @@ defaults: #생성한 분류에 포함시킬 옵션
         title: Windows
         permalink: /wins/:title
         
-        
   - scope:
       type: posts
     values:
       title: Develops
-      permalink: /post/:title
+      permalink: /devs/:title
       
   - scope:
       type: posts

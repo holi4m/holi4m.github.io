@@ -16,31 +16,38 @@ featured_posts:
     title: 'Featured post #3'
 
 collections:
-  win:
-    title: Windows
+  news:
+    title: News
     default_open: false
     output: true
-  dev:
-    title: Develops
+  posts:
+    title: Essays
+    default_open: true
+    output: true
+  wins:
+    title: Windows
     default_open: true
     output: true
     
-  ml:
-    title: Machine Learning
-    default_open: true
-    output: true
-
 defaults:
+
   - scope:
-      type: Windows
+      type: posts
     values:
-      title: Windows
+      title: Essays
       permalink: /post/:title
+      
   - scope:
-      type: Develops
+      type: news
     values:
-      title: Develops
-      permalink: /post/:title
+      title: News
+      permalink: /news/:title
+      
+  - scope:
+        type: wins
+    values:
+        title: Windows
+        permalink: /wins/:title
 
 plugins:
   - jekyll-sitemap

@@ -1,6 +1,6 @@
-title : Elementary - Jekyll Blog Theme
-name: 'Elementary Jekyll Theme'
-description: 'Simple, light weight, responsive jekyll theme for hackers'
+title : Holiam.kr
+name: Holiam's Lab
+description: 'Welcome to Holiam Laboratory'
 
 markdown: kramdown
 highlighter: rouge
@@ -16,26 +16,31 @@ featured_posts:
     title: 'Featured post #3'
 
 collections:
-  news:
-    title: News
+  win:
+    title: Windows
     default_open: false
     output: true
-  posts:
-    title: Essays
+  dev:
+    title: Develops
+    default_open: true
+    output: true
+    
+  ml:
+    title: Machine Learning
     default_open: true
     output: true
 
 defaults:
   - scope:
-      type: posts
+      type: Windows
     values:
-      title: Essays
+      title: Windows
       permalink: /post/:title
   - scope:
-      type: news
+      type: Develops
     values:
-      title: News
-      permalink: /news/:title
+      title: Develops
+      permalink: /post/:title
 
 plugins:
   - jekyll-sitemap

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: dev
 title: Sample Post
 tags: 
 - text

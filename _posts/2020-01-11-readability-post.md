@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: win
 title: Readability Post
 tags:
 - text

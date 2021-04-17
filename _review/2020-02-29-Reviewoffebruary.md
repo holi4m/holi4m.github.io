@@ -1,6 +1,6 @@
 ---
-title: Review of february, 2020
 layout: post
+title: Review of february, 2020
 tags:
 - Monthly Review
 ---

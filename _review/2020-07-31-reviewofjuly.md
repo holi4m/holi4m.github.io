@@ -1,6 +1,6 @@
 ---
-title: Review of July, 2020
 layout: post
+title: Review of July, 2020
 tags:
 - Monthly Review
 ---

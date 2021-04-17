@@ -14,19 +14,20 @@ Contact : h01i4m@gmail.com
 
 ### Education
 
-Changwon National University / Bachelor of Computer Engineering / 2010 ~ 2017  
-Changwon National University / Information Security Clubs Casper / 2010 ~ 2017  
+Changwon National University (Changwon, South Korea) / Bachelor of Computer Engineering / 2010 ~ 2017  
+Changwon National University (Changwon, South Korea) / Information Security Clubs Casper / 2010 ~ 2017  
 
 ### Jobs
 
-Changwon National University / CERT, Network / 2015 ~ 2015  
-Cyberone.Co.LTD / Web Pentester / 2017 ~ 2019  
-WonderPeople.Co.LTD / Game Cheat Prevention R&D, Pentester, SecDev Team  / 2019 ~  
+Changwon National University (Changwon, South Korea) / Security Operator in Information Based Team / 2015 ~ 2015  
+Cyberone.Co.LTD (Seoul, South Korea) / Penetration Tester in Penetration Team / 2017 ~ 2019  
+WonderPeople.Co.LTD (Seoul, South Korea) / Security Engineer in SecDev Team / 2019 ~  
 
 ### Skill
 
 Development (C,C++,C#,Python)  
 Reversing and Analysis (Packed Files, Windows Drivers)  
+Game Penetration Test and Develop Game Cheat (in Lawful)  
 Limited Working English  
 
 ### Interests
@@ -34,6 +35,7 @@ Limited Working English
 Windows OS
 Development(C, C++, C#, Python)  
 Game, Game Cheat Analysis & Develop  
+Unreal Engine  
 ImageBased Machine Learning And OpenCV  
 
 

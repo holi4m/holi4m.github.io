@@ -12,22 +12,22 @@ collections: #콜랙터는 큰 분류 생성
     title: Develops
     default_open: true
     output: true
-  mls:
-    title: Machine Learning
-    default_open: true
-    output: true
   wins:
     title: Windows
     default_open: true
     output: true
-#  revs:
-#    title: Reviews
-  #  default_open: false
-   # output: true
+   mls:
+    title: Machine Learning
+    default_open: true
+    output: true
   cve:
     title: CVE
     default_open: true
     output: true
+#   revs:
+#    title: Reviews
+#  default_open: false
+# output: true
     
 defaults: #생성한 분류에 포함시킬 옵션
       
@@ -49,11 +49,11 @@ defaults: #생성한 분류에 포함시킬 옵션
       title: Machine Learning
       permalink: /mls/:title
       
-  #- scope:
-   #   type: posts
-    #values:
-     # title: Reviews
-      #permalink: /revs/:title
+#- scope:
+#   type: posts
+#values:
+# title: Reviews
+#permalink: /revs/:title
         
    - scope:
       type: posts

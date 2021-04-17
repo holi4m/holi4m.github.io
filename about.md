@@ -3,9 +3,9 @@ layout: page
 title: About Holiam
 ---
 
-## Profile
-
 <div class="badge-base LI-profile-badge" data-locale="ko_KR" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="hongki-liam-cho-1022b1174" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kr.linkedin.com/in/hongki-liam-cho-1022b1174?trk=profile-badge">Hongki (Liam) Cho</a></div>               
+
+## Profile
 
 Name : Hongki(Liam) Cho  
 Nick : Holiam  

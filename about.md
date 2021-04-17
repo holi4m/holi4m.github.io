@@ -32,4 +32,6 @@ Mechine Learning
 ## ## Keep a touch
 
 h01i4m@gmail.com  
-![Linked In](https://www.linkedin.com/in/hongki-cho-1022b1174/)
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ko_KR" data-type="vertical" data-theme="light" data-vanity="hongki-liam-cho-1022b1174"><a class="LI-simple-link" href='https://kr.linkedin.com/in/hongki-liam-cho-1022b1174?trk=profile-badge'>Hongki (Liam) Cho</a></div>
+
+

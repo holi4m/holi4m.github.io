@@ -1,12 +1,8 @@
 ---
+layout: post
 title: Windows Synchronization_0x00
-date: 2020-03-12
-categories:
-- Windows
 tags:
 - Windows
-- Dev
-- Synchronization
 ---
 # # Introduce
 프로세스, DLL간의 통신 구간을 알아보다 Mutex, 임계 영역(Critical Section) 등을 보게 되어 해당 부분에 대해 재대로 공부하고 정리하게 되었습니다.

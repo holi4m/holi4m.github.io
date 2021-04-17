@@ -1,12 +1,8 @@
 ---
+layout: post
 title: Windows Synchronization_0x01
-date: 2020-03-12
-categories:
-- Windows
 tags:
 - Windows
-- Dev
-- Synchronization
 ---
 # # Introduce
 Windows Synchronization_0x00 포스팅에 이어서 커널 레벨의 윈도우 동기화를 알아보겠습니다.

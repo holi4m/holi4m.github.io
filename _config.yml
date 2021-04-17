@@ -20,7 +20,7 @@ collections: #콜랙터는 큰 분류 생성
     title: Windows
     default_open: true
     output: true
-  review:
+  rvs:
     title: Reviews
     default_open: false
     output: true

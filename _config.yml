@@ -20,6 +20,10 @@ collections: #콜랙터는 큰 분류 생성
     title: Windows
     default_open: true
     output: true
+  reviews:
+    title: Reviews
+    default_open: false
+    output: true
     
 defaults: #생성한 분류에 포함시킬 옵션
       
@@ -40,6 +44,13 @@ defaults: #생성한 분류에 포함시킬 옵션
     values:
       title: Machine Learning
       permalink: /mls/:title
+      
+  - scope:
+        type: posts
+    values:
+        title: Reviews
+        permalink: /review/:title
+        
 
 plugins:
   - jekyll-sitemap

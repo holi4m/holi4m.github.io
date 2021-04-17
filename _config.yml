@@ -20,15 +20,19 @@ collections: #콜랙터는 큰 분류 생성
     title: Windows
     default_open: true
     output: true
-  rvs:
+  revs:
     title: Reviews
     default_open: false
+    output: true
+  cve:
+    title: CVE
+    default_open: true
     output: true
     
 defaults: #생성한 분류에 포함시킬 옵션
       
   - scope:
-        type: posts
+      type: posts
     values:
       title: Windows
       permalink: /wins/:title
@@ -49,8 +53,13 @@ defaults: #생성한 분류에 포함시킬 옵션
       type: posts
     values:
       title: Reviews
-      permalink: /review/:title
+      permalink: /revs/:title
         
+   - scope:
+      type: posts
+    values:
+      title: CVE
+      permalink: /cve/:title
 
 plugins:
   - jekyll-sitemap

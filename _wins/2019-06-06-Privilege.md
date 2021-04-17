@@ -251,11 +251,9 @@ SetPrivilege를 이용하지 않았을 경우 권한이 없어 프로세스 핸�
 Access Token의 개념을 이해하지 못했을 때 가장 이해가 안갔던 부분이 왜 Injector들은 SetPrivilege를 쓸까? 책에서 보고 직접 해보니 이해가 갔습니다.. 이해가 안가는 경우 꼭 해보길 바랍니다.  
 
 Access Token에 대하여 더 이해하고 싶다면 윈도우즈 이터널의 보안 챕터 (5판기준 6장 / 7판기준 7장)를 읽어보는 것을 추천 드립니다.
-# # Relation
-1. [[Code Injection]]
 
 # # Reference
-1. [리버싱 핵심원리]]
-2. [윈도우즈 이터널 ]
-3. [[MSDN]](https://docs.microsoft.com/en-us/windows/win32/secauthz/access-tokens)
-4. [[Blog]](https://tribal1012.tistory.com/215)
+1. 리버싱 핵심원리
+2. 윈도우즈 이터널 
+3. MSDN(https://docs.microsoft.com/en-us/windows/win32/secauthz/access-tokens)
+4. Blog(https://tribal1012.tistory.com/215)

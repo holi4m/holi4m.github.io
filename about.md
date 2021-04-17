@@ -25,7 +25,7 @@ WonderPeople.Co.LTD (Seoul, Republic of Korea) / Game Cheat Prevention R&D, Pent
 ### Skill
 
 Development (C,C++,C#,Python)
-Reversing and Unpack Packers
+Reversing (Packed File)
 Limited Working English
 
 ### Interests

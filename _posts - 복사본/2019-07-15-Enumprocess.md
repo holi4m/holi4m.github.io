@@ -1,11 +1,11 @@
 ---
-title: "EnumProcesses & GetNativeSystemInfo 함수 분석"
+title: "EnumProcesses & GetNativeSystemInfo"
 date: 2019-07-15
 categories:
 - Windows
 tags:
 - Windows
-- Dev
+- Development
 ---
 # # Introduce
 Process Hide를 코딩하고 Process Hide를 탐지할 방법을 찾아보다 알게되어 테스트 해봤습니다.  
@@ -326,10 +326,7 @@ ActiveProcessLinks를 끊은 Process는 EnumProcesses로 탐지 되지 않습니
 EnumProcesses가 "_Eprocess"의 ProcessActiveLinks를 이용하여 프로세스를 찾기 때문입니다.  
 차후 왜 EnumProcess를 이용하여 탐지가 되지 않는지 NtQuerySystemInformation을 분석 해보도록 하겠습니다.  
 
-# # Relation Post
-1. [[Hide Process Driver]](https://holi4m.github.io/windows/2019/07/11/ProcessHideDriver/#more)
-
 # # Reference
 
-1. [[Windows SysCall Table (X64)]](https://j00ru.vexillium.org/syscalls/nt/64/)
-1. [[System_Information_Class Table]](https://www.geoffchappell.com/studies/windows/km/ntoskrnl/api/ex/sysinfo/class.htm?tx=65,67&ts=0,268)
+1. [Windows SysCall Table (X64)](https://j00ru.vexillium.org/syscalls/nt/64/)
+1. [System_Information_Class Table](https://www.geoffchappell.com/studies/windows/km/ntoskrnl/api/ex/sysinfo/class.htm?tx=65,67&ts=0,268)

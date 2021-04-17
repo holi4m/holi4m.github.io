@@ -30,8 +30,8 @@ defaults: #생성한 분류에 포함시킬 옵션
   - scope:
         type: posts
     values:
-        title: Windows
-        permalink: /wins/:title
+      title: Windows
+      permalink: /wins/:title
         
   - scope:
       type: posts
@@ -46,10 +46,10 @@ defaults: #생성한 분류에 포함시킬 옵션
       permalink: /mls/:title
       
   - scope:
-        type: posts
+      type: posts
     values:
-        title: Reviews
-        permalink: /review/:title
+      title: Reviews
+      permalink: /review/:title
         
 
 plugins:

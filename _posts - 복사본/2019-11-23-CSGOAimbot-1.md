@@ -1,8 +1,6 @@
 ---
+layout: post
 title: "Make CS:GO Aimbot_0x01"
-date: 2019-11-23
-categories:
-- Machine Learning
 tags:
 - Machine Learning
 ---
@@ -20,4 +18,4 @@ Tensorflow와 Object Detection을 이용하여 만든 Aimbot입니다.
 이전의 포스트에서 봤던 영상처럼 더 부드럽게 구현이 가능할 것으로 보입니다.
 
 # #Relation Post
-1. [[Make CS:GO Aimbot_0x00]](https://holi4m.github.io/machine%20learning/2019/10/31/CSGOAimbot-0/)
+1. [Make CS:GO Aimbot_0x00](https://holiam.kr/mls/2019-10-31-CSGOAimbot-0.html)

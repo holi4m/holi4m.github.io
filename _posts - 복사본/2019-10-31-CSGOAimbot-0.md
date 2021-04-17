@@ -1,8 +1,6 @@
 ---
+layout: post
 title: "Make CS:GO Aimbot_0x00"
-date: 2019-10-31
-categories:
-- Machine Learning
 tags:
 - Machine Learning
 ---
@@ -42,11 +40,11 @@ CPU, GPU 다 사용하여 머신러닝이 가능하며 C++, GO, Java 언어 등�
 1. Nvidia 드라이버 & CUDA 10.0 버전을 설치합니다.
 2. Python 3.x 버전을 설치합니다.
 3. Cuda와 동일버전인 Cuddn을 다운로드합니다. (Cuddn 10.0)  
-[[Download Link]](https://developer.nvidia.com/cudnn)
+[Download Link](https://developer.nvidia.com/cudnn)
 4. tensorflow model을 다운로드합니다.  
-[[Download Link]](https://github.com/tensorflow/models)
+[Download Link](https://github.com/tensorflow/models)
 5. protoc 3.4.0 x32 다운로드합니다.  
-[[Download Link]](https://github.com/protocolbuffers/protobuf/releases/tag/v3.4.0)
+[Download Link](https://github.com/protocolbuffers/protobuf/releases/tag/v3.4.0)
 6. Tensorflow Model & Protoc & CUDDN를 C:\ 경로에 압축을 풀어줍니다.
 압축 푼 폴더를 쓰기 편하게 이동해 줍니다.
 ```
@@ -82,10 +80,9 @@ import tensorflow as tf
 pip install numpy<=1.17
 ```
 # #Relation Post
-1. [[Make CS:GO Aimbot_0x01]](https://holi4m.github.io/machine%20learning/2019/11/23/CSGOAimbot-1/)
+1. [Make CS:GO Aimbot_0x01](https://holiam.kr/mls/2019-11-23-CSGOAimbot-1.html)
 
 # #Reference
-1. [[Tensorflow Object Detection CS:GO Aimbot for Python Lessons]](https://www.youtube.com/watch?v=HX2yXajg8Ts&list=PLbMO9c_jUD46x-d4pIj_STGK6CWWkw0Vv)  
-2. [[Wikipedia]](https://en.wikipedia.org/)
+1. [Tensorflow Object Detection CS:GO Aimbot for Python Lessons](https://www.youtube.com/watch?v=HX2yXajg8Ts&list=PLbMO9c_jUD46x-d4pIj_STGK6CWWkw0Vv)  
 
 

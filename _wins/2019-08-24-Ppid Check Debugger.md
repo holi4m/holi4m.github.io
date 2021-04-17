@@ -1,11 +1,10 @@
 ---
+layout: post
 title: Debugger detector using PPID
-date: 2019-08-24
-categories:
-- Windows
 tags:
 - Windows
-- Dev
+- Development
+- Kernel
 ---
 
 # # Introduce
@@ -151,4 +150,4 @@ ScyllaHide는 이렇게 Bypass한다. 정도로 알고 있으면 될 듯 합니�
 
 # # Reference
 
-1. [[MSDN]](https://docs.microsoft.com/en-us/windows/win32/api/winternl/nf-winternl-ntqueryinformationprocess)
+1. [MSDN](https://docs.microsoft.com/en-us/windows/win32/api/winternl/nf-winternl-ntqueryinformationprocess)

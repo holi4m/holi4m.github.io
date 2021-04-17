@@ -1,11 +1,10 @@
 ---
+layout: post
 title: "EnumProcesses & GetNativeSystemInfo"
-date: 2019-07-15
-categories:
-- Windows
 tags:
 - Windows
 - Development
+- Kernel
 ---
 # # Introduce
 Process Hide를 코딩하고 Process Hide를 탐지할 방법을 찾아보다 알게되어 테스트 해봤습니다.  

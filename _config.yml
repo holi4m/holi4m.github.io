@@ -45,16 +45,16 @@ defaults:
     values:
       title: Machine Learning
       permalink: /mls/:title
-    - scope:
-        type: posts
+  - scope:
+      type: posts
     values:
-        title: Reviews
-        permalink: /revs/:title
-   - scope:
+      title: Reviews
+      permalink: /revs/:title
+  - scope:
       type: posts
     values:
       title: CVE
       permalink: /cve/:title
-
+      
 plugins:
   - jekyll-sitemap

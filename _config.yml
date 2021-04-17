@@ -6,44 +6,41 @@ markdown: kramdown
 highlighter: rouge
 javascript_enabled: true
 
-featured_posts_title: Unrelated
-featured_posts:
-  - url: '#'
-    title: 'Featured post #1'
-  - url: '#'
-    title: 'Featured post #2'
-  - url: '#'
-    title: 'Featured post #3'
 
-collections:
-
-  posts:
-    title: Essays
+collections: #콜랙터는 큰 분류 생성
+  devs:
+    title: Develops
+    default_open: false
+    output: true
+  mls:
+    title: Machine Learning
     default_open: true
     output: true
-
+  wins:
+    title: Windows
+    default_open: true
+    output: true
     
-defaults:
-
+defaults: #생성한 분류에 포함시킬 옵션
       
   - scope:
-        type: post
+        type: posts
     values:
         title: Windows
         permalink: /wins/:title
         
         
   - scope:
-      type: post
+      type: posts
     values:
-      title: Essays
+      title: Develops
       permalink: /post/:title
       
   - scope:
-      type: post
+      type: posts
     values:
-      title: News
-      permalink: /news/:title
+      title: Machine Learning
+      permalink: /mls/:title
 
 plugins:
   - jekyll-sitemap

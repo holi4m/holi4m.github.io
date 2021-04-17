@@ -3,7 +3,7 @@ layout: post
 title: DKOM Detector Driver
 tags:
 - Windows
-- Dev
+- Development
 - Kernel
 ---
 # # Introduce

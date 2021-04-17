@@ -1,11 +1,9 @@
 ---
+layout: post
 title: "Process Hide Driver (DKOM)"
-date: 2019-07-11
-categories:
-- Windows
 tags:
 - Windows
-- Dev
+- Development
 - Kernel
 ---
 # # Introduce
@@ -311,9 +309,6 @@ _eprocess 구조체입니다.
 
 ### [#] Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z8WT-VsV94M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-# # Relation Post
-1. [[EnumProcesses Post]](https://holi4m.github.io/windows/2019/07/15/Enumprocess/)
 
 # # Reference
 

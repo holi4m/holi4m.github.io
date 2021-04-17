@@ -3,6 +3,8 @@ layout: page
 title: About Holiam
 ---
 
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ko_KR" data-type="horizontal" data-theme="light" data-vanity="hongki-liam-cho-1022b1174"><a class="LI-simple-link" href='https://kr.linkedin.com/in/hongki-liam-cho-1022b1174?trk=profile-badge'>Hongki (Liam) Cho</a></div>
+
 ## Profile
 
 Name : Hongki(Liam) Cho
@@ -11,8 +13,8 @@ Contact : h01i4m@gmail.com
 
 ### Education
 
-CWNU (Changwon National University) / Bachelor's degree / 2010 ~ 2017  
-CWNU (Changwon National University) / Information Security Clubs / Casper / 2010 ~ 2017
+CWNU (Changwon National University) / Bachelor of Computer Engineering / 2010 ~ 2017  
+CWNU (Changwon National University) / Information Security Clubs Casper / 2010 ~ 2017
 
 ### Jobs
 
@@ -20,12 +22,18 @@ Changwon National University (Changwon, Republic of Korea) / CERT, Network / 201
 Cyberone.Co.LTD (Seoul, Republic of Korea) / Web Pentester / 2017 ~ 2019  
 WonderPeople.Co.LTD (Seoul, Republic of Korea) / Game Cheat Prevention R&D, Pentester, SecDev Team  / 2019 ~  
 
+### Skill
+
+Development (C,C++,C#,Python)
+Reversing and Unpack Packers
+Limited Working English
+
 ### Interests
 
 Windows OS
 Development(C, C++, C#, Python)
 Game, Game Cheat Analysis & Develop
-ImageBased Mechine Learning And OpenCV
+ImageBased Machine Learning And OpenCV
 
 
 

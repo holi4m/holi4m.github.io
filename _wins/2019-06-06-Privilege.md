@@ -254,5 +254,5 @@ Access Token에 대하여 더 이해하고 싶다면 윈도우즈 이터널의 �
 # # Reference
 1. 리버싱 핵심원리
 2. 윈도우즈 이터널 
-3. MSDN(https://docs.microsoft.com/en-us/windows/win32/secauthz/access-tokens)
-4. Blog(https://tribal1012.tistory.com/215)
+3. [MSDN](https://docs.microsoft.com/en-us/windows/win32/secauthz/access-tokens)
+4. [Blog](https://tribal1012.tistory.com/215)

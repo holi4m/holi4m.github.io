@@ -26,7 +26,7 @@ collections: #콜랙터는 큰 분류 생성
     output: true
   revs:
     title: Reviews
-    default_open: false
+    default_open: true
     output: true
     
 defaults: #생성한 분류에 포함시킬 옵션
@@ -36,25 +36,21 @@ defaults: #생성한 분류에 포함시킬 옵션
     values:
       title: Windows
       permalink: /wins/:title
-        
   - scope:
       type: posts
     values:
       title: Develops
       permalink: /devs/:title
-      
   - scope:
       type: posts
     values:
       title: Machine Learning
       permalink: /mls/:title
-      
     - scope:
         type: posts
     values:
         title: Reviews
         permalink: /revs/:title
-        
    - scope:
       type: posts
     values:

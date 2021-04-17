@@ -198,8 +198,5 @@ Windows Native Application 이지만 종료되었는데 EPROCESS 구조체는 �
 ### [#] Youtube
 <iframe width="560" height="315" src="https://www.youtube.com/embed/MpkZU9wqEcM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# # Relation Post
-1. [[Process Hide Driver]](https://holi4m.github.io/windows/2019/07/11/ProcessHideDriver/)
-
 # # Reference
 1. [[MSDN]](https://docs.microsoft.com/en-us/windows-hardware/drivers/ddi/ntddk/)

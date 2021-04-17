@@ -7,7 +7,7 @@ title: About Holiam
 
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="ko_KR" data-type="horizontal" data-theme="light" data-vanity="hongki-liam-cho-1022b1174"><a class="LI-simple-link" href='https://kr.linkedin.com/in/hongki-liam-cho-1022b1174?trk=profile-badge'>Hongki (Liam) Cho</a></div>
 
-Name : Hongki(Liam) Cho  
+Name : Hongki (Liam) Cho  
 Nick : Holiam  
 Contact : h01i4m@gmail.com  
 
@@ -19,9 +19,9 @@ CWNU (Changwon National University) / Information Security Clubs Casper / 2010 ~
 
 ### Jobs
 
-Changwon National University (Changwon, Republic of Korea) / CERT, Network / 2015 ~ 2015  
-Cyberone.Co.LTD (Seoul, Republic of Korea) / Web Pentester / 2017 ~ 2019  
-WonderPeople.Co.LTD (Seoul, Republic of Korea) / Game Cheat Prevention R&D, Pentester, SecDev Team  / 2019 ~  
+Changwon National University (Changwon, South Korea) / CERT, Network / 2015 ~ 2015  
+Cyberone.Co.LTD (Seoul, South Korea) / Web Pentester / 2017 ~ 2019  
+WonderPeople.Co.LTD (Seoul, South Korea) / Game Cheat Prevention R&D, Pentester, SecDev Team  / 2019 ~  
 
 ### Skill
 

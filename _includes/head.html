@@ -24,7 +24,7 @@
         "datePublished": "{{ page.date | date_to_xmlschema }}",
         "headline": "{{ page.title }}",
         "url": "{{ site.url }}{{ page.url }}",
-        "inLanguage": "en-US",
+        "inLanguage": "ko_KR",
         "isFamilyFriendly": "true",
         "keywords": "{{ page.tags| join: ", " }}",
         "image": "{{ site.url }}/favicon.ico",
@@ -35,5 +35,5 @@
       }
     </script>
   {% endif %}
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+  <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
 </head>

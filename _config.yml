@@ -24,10 +24,6 @@ collections:
     title: CVE
     default_open: true
     output: true
-  revs:
-    title: Reviews
-    default_open: true
-    output: true
 
 defaults:
   - scope:
@@ -45,11 +41,6 @@ defaults:
     values:
       title: Machine Learning
       permalink: /mls/:title
-  - scope:
-      type: posts
-    values:
-      title: Reviews
-      permalink: /revs/:title
   - scope:
       type: posts
     values:

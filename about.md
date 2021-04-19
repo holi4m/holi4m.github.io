@@ -5,7 +5,7 @@ title: About Holiam
 
 ## Profile
 
-<a class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="ko_KR" data-type="horizontal" data-theme="dark" data-vanity="hongki-liam-cho-1022b1174"><a class="LI-simple-link" href='https://kr.linkedin.com/in/hongki-liam-cho-1022b1174?trk=profile-badge'>Hongki (Liam) Cho</a></a>
+<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="hongki-liam-cho-1022b1174"><a class="LI-simple-link" href='https://kr.linkedin.com/in/hongki-liam-cho-1022b1174?trk=profile-badge'>Hongki (Liam) Cho</a></div>
 
 Name : Hongki (Liam) Cho  
 Nick : Holiam  

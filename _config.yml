@@ -20,8 +20,8 @@ collections:
     title: Machine Learning
     default_open: true
     output: true
-  cve:
-    title: CVE
+  vul:
+    title: Vulnerability
     default_open: true
     output: true
 
@@ -44,8 +44,8 @@ defaults:
   - scope:
       type: posts
     values:
-      title: CVE
-      permalink: /cve/:title
+      title: Vulnerability
+      permalink: /vul/:title
       
 plugins:
   - jekyll-sitemap

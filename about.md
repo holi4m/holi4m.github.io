@@ -2,6 +2,8 @@
 layout: page
 title: About Holiam
 ---
+Thanks visit my blog.
+This blog focus on a research and a development by myself.  
 
 ## Profile
 <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="hongki-liam-cho-1022b1174">

@@ -2,7 +2,7 @@
 layout: page
 title: About Holiam
 ---
-Thanks visit my blog.
+Thanks visit my blog.  
 This blog focus on a research and a development by myself.  
 
 ## Profile

@@ -22,7 +22,7 @@ Changwon National University (Changwon, South Korea) / Information Security Club
 
 Changwon National University (Changwon, South Korea) / Security Operator in Information Based Team / 2015 ~ 2015  
 Cyberone.Co.LTD (Seoul, South Korea) / Penetration Tester in Penetration Team / 2017 ~ 2019  
-WonderPeople.Co.LTD (Seoul, South Korea) / Security Engineer in SecDev Team / 2019 ~  
+WonderPeople.Co.LTD (Seoul, South Korea) / Security Engineer in Game Security Team / 2019 ~  
 
 ### Skill
 

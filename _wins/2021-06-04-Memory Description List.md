@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Memory Descriptor List"
+tags:
+- Windows
+- MDL
+---
 # [-] Memory Descriptor List
 
 ## 1. Introduce

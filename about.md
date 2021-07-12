@@ -29,7 +29,7 @@ WonderPeople.Co.LTD (Seoul, South Korea) / Security Engineer in Game Security Te
 Development (C,C++,C#,Python)  
 Reversing and Analysis (Packed Files, Windows Drivers)  
 Game Penetration Test and Develop Game Cheat (in Lawful)  
-Limited Working English  
+Elementary proficiency
 
 ### Interests
 
@@ -37,7 +37,6 @@ Windows OS
 Development(C, C++, C#, Python)  
 Game, Game Cheat Analysis & Develop  
 Unreal Engine  
-ImageBased Machine Learning And OpenCV  
-
+Make Automation tool use a OpenCV and Object Detection within Machine Learning 
 
 

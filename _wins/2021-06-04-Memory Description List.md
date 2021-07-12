@@ -5,6 +5,7 @@ title: "Memory Descriptor List"
 tags:
 - Windows
 - MDL
+- Kernel
 ---
 # [-] Memory Descriptor List
 

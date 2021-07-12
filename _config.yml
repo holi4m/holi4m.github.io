@@ -24,6 +24,10 @@ collections:
     title: Vulnerability
     default_open: true
     output: true
+  rever:
+    title: Reversing
+    default_open: true
+    output: true
 
 defaults:
   - scope:
@@ -46,6 +50,12 @@ defaults:
     values:
       title: Vulnerability
       permalink: /vul/:title
+      
+  - scope:
+      type: posts
+    values:
+      title: Reversing
+      permalink: /rever/:title
       
 plugins:
   - jekyll-sitemap
